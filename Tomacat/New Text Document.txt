@@ -1,0 +1,2 @@
+<user username="prafull" password="prafull" roles="manager-script,manager-status,manager-gui"/ >
+<user username="prafullprod" password="prafull" roles="manager-script,manager-status,manager-gui"/ >
